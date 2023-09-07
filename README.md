@@ -1,4 +1,4 @@
 # new_repo
 This is new repo.
 Changing user name.
-Nerge new_branch with main branch.
+Merge new_branch with main branch.
